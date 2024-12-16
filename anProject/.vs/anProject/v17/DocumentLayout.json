@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCHS_BPA\\Desktop\\anProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C756E3-9643-4C61-A921-24E26B92CDC0}|anProject\\anProject.vcxproj|C:\\Users\\PCHS_BPA\\Desktop\\anProject\\anProject\\anProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C756E3-9643-4C61-A921-24E26B92CDC0}|anProject\\anProject.vcxproj|solutionrelative:anProject\\anProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "anProject.cpp",
+              "DocumentMoniker": "C:\\Users\\PCHS_BPA\\Desktop\\anProject\\anProject\\anProject.cpp",
+              "RelativeDocumentMoniker": "anProject\\anProject.cpp",
+              "ToolTip": "C:\\Users\\PCHS_BPA\\Desktop\\anProject\\anProject\\anProject.cpp",
+              "RelativeToolTip": "anProject\\anProject.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T17:10:58.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
